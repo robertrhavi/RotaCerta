@@ -1,4 +1,3 @@
-// API KEY GOOGLE -> AIzaSyBZsvi_7gi5HnUk_eF1XRRTJeHxD9blvrU - 27/08, email cc26125@g.unicamp.br
 import './maps.css'
 import { useEffect, useRef, useState } from 'react'
 import polyline from '@mapbox/polyline';
